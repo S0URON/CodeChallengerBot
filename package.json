@@ -1,0 +1,17 @@
+{
+  "name": "botchallenger",
+  "version": "1.0.0",
+  "description": "codeChallenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Buggy_Script.sh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-schedule": "^2.0.0",
+    "https": "^1.0.0",
+    "jsdom": "^16.5.3"
+  }
+}
